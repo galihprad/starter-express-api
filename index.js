@@ -15,3 +15,5 @@ bot.launch();
 //   res.send("Yo!");
 // });
 // app.listen(process.env.PORT || 3000);
+
+const port = process.env.PORT || 3000;
